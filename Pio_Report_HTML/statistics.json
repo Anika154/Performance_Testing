@@ -1,0 +1,50 @@
+{
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 262.1,
+    "medianResTime" : 224.0,
+    "minResTime" : 210.0,
+    "maxResTime" : 601.0,
+    "pct1ResTime" : 565.6000000000001,
+    "pct2ResTime" : 601.0,
+    "pct3ResTime" : 601.0,
+    "throughput" : 1.086720278200391,
+    "receivedKBytesPerSec" : 12.760473266681156,
+    "sentKBytesPerSec" : 0.5263801347533145
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 262.1,
+    "medianResTime" : 224.0,
+    "minResTime" : 210.0,
+    "maxResTime" : 601.0,
+    "pct1ResTime" : 565.6000000000001,
+    "pct2ResTime" : 601.0,
+    "pct3ResTime" : 601.0,
+    "throughput" : 1.0936132983377078,
+    "receivedKBytesPerSec" : 12.841412401574804,
+    "sentKBytesPerSec" : 0.5297189413823272
+  },
+  "https://pioneeralpha.com/" : {
+    "transaction" : "https://pioneeralpha.com/",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 262.1,
+    "medianResTime" : 224.0,
+    "minResTime" : 210.0,
+    "maxResTime" : 601.0,
+    "pct1ResTime" : 565.6000000000001,
+    "pct2ResTime" : 601.0,
+    "pct3ResTime" : 601.0,
+    "throughput" : 1.0936132983377078,
+    "receivedKBytesPerSec" : 12.841412401574804,
+    "sentKBytesPerSec" : 0.5297189413823272
+  }
+}
