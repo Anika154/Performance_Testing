@@ -2,15 +2,15 @@ Extract data for reporting in JMeter.
 ============================================
 Dear, 
 
-I’ve completed a performance test on a frequently used API for the test App. 
-Test executed for the below mentioned scenario in 
-1.(HOME Page) https://www.opencart.com/index.php?route=common/home  =>
-	(FEATURE Page) https://www.opencart.com/index.php?route=cms/feature  =>
-		(MARKECTPLACE Page) https://www.opencart.com/index.php?route=marketplace/extension  =>
-			(ABOUT US Page)	https://www.opencart.com/index.php?route=cms/company  =>
-				(LOGIN Page)  https://www.opencart.com/index.php?route=account/login 
+I’ve completed a performance test on a frequently used API for the test app.
+A test was executed for the below-mentioned scenario in 
+1.https://www.amarischool.com  =>
+	https://www.amarischool.com/contactus  =>
+		https://www.amarischool.com/faq  =>
+			https://auth.amarischool.com/login  
+				
 
-1 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 3.350 ; Total Concurrent API requested: 212 And Error Rate 0%.
+1 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 26 ; Total Concurrent API requested: 10 And Error Rate 0%.
 2 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 7 ; Total Concurrent API requested: 424 And Error Rate 0%.
 3 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 11 ; Total Concurrent API requested: 636 And Error Rate 0.47%.
 4 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 14.1 ; Total Concurrent API requested: 848 And Error Rate 0.59%.
