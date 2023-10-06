@@ -42,10 +42,9 @@ Listener shows the results of the test execution. They can show results in a dif
 - Then continue to upgrade Threads(1 to 10) by keeping Ramp-up the same. </br>
 
 <p float="left">
-  <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/937ec26d-5107-497e-9b88-a1ce81d6b2e1.jpg" width="59%" /> 
-  <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/d4d879e9-e2a9-41fd-afc8-def409be3aa6.jpg" width="100%" />     
+   <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/937ec26d-5107-497e-9b88-a1ce81d6b2e1.jpg" width="39%" hspace="20" /> 
+   <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/ea7214cc-56e9-4a9c-bf46-f86d7fba0e0b.jpg" width="26%" /> 
 </p>
-
 
 
 - After completing this command
@@ -54,11 +53,12 @@ Listener shows the results of the test execution. They can show results in a dif
   ```bash
   jmeter -g report\Amar_iSchool.jtl -o report\Amar_iSchool.html
 ```
+<p float="left">
+   <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/bb9fb9bf-dc2e-457c-b220-84ff504f5603.jpg" width="78%" hspace="20" /> 
+   <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/1825a861-f1d7-4974-95d2-4b6182baecca.jpg" width="17%" /> 
+</p>   
+   
 
-<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/bb9fb9bf-dc2e-457c-b220-84ff504f5603.jpg" width="59%" /> 
-<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/1825a861-f1d7-4974-95d2-4b6182baecca.jpg" width="59%" /> 
-
-  
 
 
 # HTML Report
@@ -69,10 +69,9 @@ Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
 ![1](https://github.com/Anika154/Performance_Testing/assets/54212195/4df13c71-83e3-4495-97ee-7ca423cf14ea)  |  ![2](https://github.com/Anika154/Performance_Testing/assets/54212195/11c51bb7-5634-440e-920a-5616a0c62a26.jpg)
 
-
-**Application Performance Index**          
-
-<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/86db3b03-d33a-4c4c-9409-903642079709.jpg" width="59%" />
+Application Performance Index             |  Statistics
+:-------------------------:|:-------------------------:
+![1](https://github.com/Anika154/Performance_Testing/assets/54212195/5e9804d0-04c4-46ec-a698-07e1e9526484)  |  ![2](https://github.com/Anika154/Performance_Testing/assets/54212195/028f7baf-122d-4f25-b3b7-a234a160afe3.jpg)
 
 
 # Read CSV file from JMeter:
