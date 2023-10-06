@@ -67,6 +67,44 @@ Requests Summary             |  Errors
 
 ![b](https://github.com/Anika154/Performance_Testing/assets/54212195/86db3b03-d33a-4c4c-9409-903642079709)
 
+## Read CSV file from JMeter:
+API:
+- https://www.amarischool.com/contactus
+- https://cognito-idp.ap-southeast-1.amazonaws.com/
+- https://auth.amarischool.com/emailverification?state=signUp
+- https://www.amarischool.com/faq
+
+
+- Create a CSV file and save it into the bin folder of the JMeter <br/>
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/d99374e7-f534-431e-a8b5-98830b09d989.jpg" width="59%" />
+
+
+- Right click on Thread Group -> Add -> Config Element -> CSV Data Set Config in Jmeter <br/>
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/7967a557-ad0d-42d3-a90a-cc47c7acf34c.jpg" width="59%" />
+
+
+- Browse File in the CSV Dataset config <br/>
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/89fe815a-7390-4937-8c93-42581831701a.jpg" width="59%" />
+
+ 
+- Set the HTTP req by providing IP, parameter according to the CSV variables name <br/>
+  
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/32e821f1-29bd-404c-8f2a-ad005afff490.jpg" width="59%" />
+
+
+- Add Listener -> Run the test and check the result if data read from CSV file <br/>  
+
+
+**Number of Threads 10 ; Ramp-Up Period 2s**
+
+<p float="left">
+  <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/e3b365ec-bfed-4464-8d5f-9994291bab85.jpg" width="49%" /> 
+  <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/f196a0af-48a9-4f06-b9a0-dd9f69bd9774.jpg" width="49%" />     
+</p>
+
+
+
+
 
 
 
