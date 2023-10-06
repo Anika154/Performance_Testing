@@ -63,9 +63,10 @@ Requests Summary             |  Errors
 ![1](https://github.com/Anika154/Performance_Testing/assets/54212195/4df13c71-83e3-4495-97ee-7ca423cf14ea)  |  ![2](https://github.com/Anika154/Performance_Testing/assets/54212195/11c51bb7-5634-440e-920a-5616a0c62a26.jpg)
 
 
-**Application Performance Index**             
+**Application Performance Index**          
 
-![b](https://github.com/Anika154/Performance_Testing/assets/54212195/86db3b03-d33a-4c4c-9409-903642079709)
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/86db3b03-d33a-4c4c-9409-903642079709.jpg" width="59%" />
+
 
 ## Read CSV file from JMeter:
 API:
