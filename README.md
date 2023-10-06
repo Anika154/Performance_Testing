@@ -58,7 +58,7 @@ Listener shows the results of the test execution. They can show results in a dif
   jmeter -g report\Amar_iSchool.jtl -o report\Amar_iSchool.html
 ```
 <p float="left">
-   <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/bb9fb9bf-dc2e-457c-b220-84ff504f5603.jpg" width="78%" hspace="20" /> 
+   <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/bb9fb9bf-dc2e-457c-b220-84ff504f5603.jpg" width="76%" hspace="20" /> 
    <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/1825a861-f1d7-4974-95d2-4b6182baecca.jpg" width="17%" /> 
 </p>   
    
