@@ -1,0 +1,50 @@
+{
+  "https://www.amarischool.com/" : {
+    "transaction" : "https://www.amarischool.com/",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 362.9,
+    "medianResTime" : 118.0,
+    "minResTime" : 102.0,
+    "maxResTime" : 1850.0,
+    "pct1ResTime" : 1733.9000000000003,
+    "pct2ResTime" : 1850.0,
+    "pct3ResTime" : 1850.0,
+    "throughput" : 0.9272137227630969,
+    "receivedKBytesPerSec" : 10.88824177097821,
+    "sentKBytesPerSec" : 0.44911914696337507
+  },
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 362.9,
+    "medianResTime" : 118.0,
+    "minResTime" : 102.0,
+    "maxResTime" : 1850.0,
+    "pct1ResTime" : 1733.9000000000003,
+    "pct2ResTime" : 1850.0,
+    "pct3ResTime" : 1850.0,
+    "throughput" : 0.9231905465288035,
+    "receivedKBytesPerSec" : 10.84099773818316,
+    "sentKBytesPerSec" : 0.4471704209748892
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 362.9,
+    "medianResTime" : 118.0,
+    "minResTime" : 102.0,
+    "maxResTime" : 1850.0,
+    "pct1ResTime" : 1733.9000000000003,
+    "pct2ResTime" : 1850.0,
+    "pct3ResTime" : 1850.0,
+    "throughput" : 0.9272137227630969,
+    "receivedKBytesPerSec" : 10.88824177097821,
+    "sentKBytesPerSec" : 0.44911914696337507
+  }
+}
