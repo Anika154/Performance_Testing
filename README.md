@@ -86,7 +86,7 @@ API:
 - https://www.amarischool.com/faq
 
 
-- Create a CSV file and save it into the bin folder of the JMeter <br/>
+Create a CSV file and save it into the bin folder of the JMeter <br/>
 <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/d99374e7-f534-431e-a8b5-98830b09d989.jpg" width="59%" />
 
 
