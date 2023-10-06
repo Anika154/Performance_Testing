@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1696575107288,755,https://www.amarischool.com/,200,OK,Thread Group 1-1,text,true,,12029,496,1,1,https://pioneeralpha.com/,746,0,565
+1696575107211,755,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,12029,496,1,1,null,746,83,565
+1696575108224,206,https://www.amarischool.com/,200,OK,Thread Group 1-2,text,true,,12025,496,1,1,https://pioneeralpha.com/,203,0,27
+1696575108221,206,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,12025,496,1,1,null,203,4,27
+1696575109216,126,https://www.amarischool.com/,200,OK,Thread Group 1-3,text,true,,12023,496,1,1,https://pioneeralpha.com/,123,0,23
+1696575109214,126,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,12023,496,1,1,null,123,4,23
+1696575110212,124,https://www.amarischool.com/,200,OK,Thread Group 1-4,text,true,,12029,496,1,1,https://pioneeralpha.com/,110,0,25
+1696575110209,124,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,12029,496,1,1,null,110,3,25
+1696575111212,554,https://www.amarischool.com/,200,OK,Thread Group 1-5,text,true,,12029,496,1,1,https://pioneeralpha.com/,553,0,358
+1696575111209,554,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,12029,496,1,1,null,553,4,358
+1696575112198,442,https://www.amarischool.com/,200,OK,Thread Group 1-6,text,true,,12023,496,1,1,https://pioneeralpha.com/,436,0,19
+1696575112195,442,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,12023,496,1,1,null,436,4,19
+1696575113195,210,https://www.amarischool.com/,200,OK,Thread Group 1-7,text,true,,12027,496,1,1,https://pioneeralpha.com/,208,0,19
+1696575113194,210,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,12027,496,1,1,null,208,2,19
+1696575114197,118,https://www.amarischool.com/,200,OK,Thread Group 1-8,text,true,,12027,496,1,1,https://pioneeralpha.com/,116,0,19
+1696575114194,118,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,12027,496,1,1,null,116,5,19
+1696575115195,117,https://www.amarischool.com/,200,OK,Thread Group 1-9,text,true,,12021,496,1,1,https://pioneeralpha.com/,113,0,30
+1696575115194,117,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,12021,496,1,1,null,113,3,30
+1696575116196,112,https://www.amarischool.com/,200,OK,Thread Group 1-10,text,true,,12031,496,1,1,https://pioneeralpha.com/,111,0,27
+1696575116195,112,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,12031,496,1,1,null,111,2,27
