@@ -43,7 +43,7 @@ Listener shows the results of the test execution. They can show results in a dif
 
 <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/937ec26d-5107-497e-9b88-a1ce81d6b2e1.jpg" width="59%" />
 
-<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/011ba340-e5c1-4248-afb6-8d82a664709e.jpg" width="59%" />
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/011ba340-e5c1-4248-afb6-8d82a664709e.jpg" width="49%" />
 
 
 
