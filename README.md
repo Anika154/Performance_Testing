@@ -41,13 +41,11 @@ Listener shows the results of the test execution. They can show results in a dif
 ```      
 - Then continue to upgrade Threads(1 to 10) by keeping Ramp-up the same. </br>
 
-<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/937ec26d-5107-497e-9b88-a1ce81d6b2e1.jpg" width="59%" />
+<p float="left">
+  <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/937ec26d-5107-497e-9b88-a1ce81d6b2e1.jpg" width="59%" /> 
+  <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/d4d879e9-e2a9-41fd-afc8-def409be3aa6.jpg" />     
+</p>
 
-<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/011ba340-e5c1-4248-afb6-8d82a664709e.jpg" width="49%" />
-
-
-
-![jtl2](https://github.com/Anika154/Performance_Testing/assets/54212195/d4d879e9-e2a9-41fd-afc8-def409be3aa6)
 
 
 - After completing this command
