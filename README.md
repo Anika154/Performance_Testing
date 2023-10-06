@@ -1,9 +1,13 @@
 # Performance_Testing
+The software testing process used for testing the speed, response time, stability, reliability, scalability, and resource usage of a software application under a particular workload.Performance Testing is checking a software program’s: 
+- Speed – Determines whether the application responds quickly
+- Scalability – Determines the maximum user load the software application can handle.
+- Stability – Determines if the application is stable under varying loads
 
-## Introduction: 
+## Scopes: 
 Amar iSchool website has been taken for performance testing in JMeter.
 
-## Elements for a complete JMeter flow:
+## Process for a complete JMeter flow:
 - Test Plan Creation
 - Thread Group
 - Sampler
