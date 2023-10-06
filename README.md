@@ -1,4 +1,4 @@
-![image](https://github.com/Anika154/Performance_Testing/assets/54212195/bfd070c4-a3d3-4ce3-92f2-2ff657ad472c)# Performance_Testing
+Performance_Testing
 
 ## Introduction: 
 Amar iSchool website has been taken for performance testing in JMeter.
