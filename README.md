@@ -24,14 +24,15 @@ Listener shows the results of the test execution. They can show results in a dif
 # Load the JMeter Script 
    - Run BlazeMeter    
    - Save JMX file
-   - Select the pioneer alpha.com
+   - Select the https://www.amarischool.com
    - Then paste => **apache-jmeter-5.5\bin**
    - File > Open (CTRL + O)
    - Locate the "Pio.jmx" file contained on this repo
    - Continue open Pio
    - Open those file
-   - The Test Plan will be loaded     
-   ![c](https://github.com/Anika154/Performance_Testing/assets/54212195/9b666c91-39ac-4dda-8ef9-0675238140ed)
+   - The Test Plan will be loaded
+
+   <img src="https://github.com/Anika154/Performance_Testing/assets/54212195/9b666c91-39ac-4dda-8ef9-0675238140ed.jpg" width="59%" />
 ### Make jtl file
 
 ```bash
