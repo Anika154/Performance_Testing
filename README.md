@@ -47,6 +47,8 @@ Listener shows the results of the test execution. They can show results in a dif
 
 
 
+![jtl2](https://github.com/Anika154/Performance_Testing/assets/54212195/d4d879e9-e2a9-41fd-afc8-def409be3aa6)
+
 
 - After completing this command
 ### Make html file   
