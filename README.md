@@ -1,4 +1,4 @@
-# Performance_Testing
+![image](https://github.com/Anika154/Performance_Testing/assets/54212195/bfd070c4-a3d3-4ce3-92f2-2ff657ad472c)# Performance_Testing
 
 ## Introduction: 
 Amar iSchool website has been taken for performance testing in JMeter.
@@ -27,8 +27,8 @@ Listener shows the results of the test execution. They can show results in a dif
    - Select the https://www.amarischool.com
    - Then paste => **apache-jmeter-5.5\bin**
    - File > Open (CTRL + O)
-   - Locate the "Pio.jmx" file contained on this repo
-   - Continue open Pio
+   - Locate the "ISchool.jmx" file contained on this repo
+   - Continue open ISchool
    - Open those file
    - The Test Plan will be loaded
 
@@ -37,24 +37,29 @@ Listener shows the results of the test execution. They can show results in a dif
 ### Make jtl file
 
 ```bash
-  jmeter -n -t  Pio_report.jmx -l Pio_report.jtl
+  jmeter -n -t  Amar_iSchool.jmx -l Amar_iSchool.jtl
 ```      
-Then continue to upgrade Threads(1 to 10) by keeping Ramp-up the same.
-  
-  ![a](https://github.com/Anika154/Performance_Testing/assets/54212195/1fddbed0-1040-4637-b831-94b7f7025077)
- 
-  
-  ![d](https://github.com/Anika154/Performance_Testing/assets/54212195/efed3e1d-ce7d-4c09-a1d4-a5bc159a17ba)
+- Then continue to upgrade Threads(1 to 10) by keeping Ramp-up the same. </br>
 
-After completing this command
-   ### Make html file   
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/937ec26d-5107-497e-9b88-a1ce81d6b2e1.jpg" width="59%" />
+
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/011ba340-e5c1-4248-afb6-8d82a664709e.jpg" width="59%" />
+
+
+
+
+- After completing this command
+### Make html file   
   
   ```bash
-  jmeter -g report\Pio_report.jtl -o report\Pio_report.html
+  jmeter -g report\Amar_iSchool.jtl -o report\Amar_iSchool.html
 ```
 
-  ![b](https://github.com/Anika154/Performance_Testing/assets/54212195/d99e8618-b9e8-48fb-88ae-fc49d03c39d4)  
-  ![f](https://github.com/Anika154/Performance_Testing/assets/54212195/89dca3ab-f23c-4e27-ad56-591144a24ec4)
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/bb9fb9bf-dc2e-457c-b220-84ff504f5603.jpg" width="59%" /> 
+<img src="https://github.com/Anika154/Performance_Testing/assets/54212195/1825a861-f1d7-4974-95d2-4b6182baecca.jpg" width="59%" /> 
+
+  
+
 
 # HTML Report
 
