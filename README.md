@@ -1,7 +1,7 @@
 # Performance_Testing
 
 ## Introduction: 
-Pioneer Alpha website has been taken for performance testing in JMeter.
+Amar iSchool website has been taken for performance testing in JMeter.
 
 ## Elements for a complete JMeter flow:
 - Test Plan Creation
